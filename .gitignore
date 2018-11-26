@@ -33,4 +33,5 @@ vignettes/*.pdf
 *.knit.md
 
 # Jupyter notebook metadata
-python/.ipynb_checkpoints/*
+.ipynb_checkpoints/*
+*/.ipynb_checkpoints/*
